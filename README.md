@@ -124,7 +124,7 @@ This ensures clarity for business users as well as data teams.
 
 This project is designed to:
 
-* Showcase your skills in *data engineering & analytics*
+* Showcase my skills in *data engineering & analytics*
 * Demonstrate complete end-to-end data workflows
 * Serve as a *portfolio project* for Data Engineering / Analytics roles
 
